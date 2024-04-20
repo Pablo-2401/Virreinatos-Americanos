@@ -2,7 +2,7 @@
 	{
 		"name": "Dragón de Cuera",
 		"unitType": "Mounted",
-		"uniqueTo": "",
+		"uniqueTo": "Virreinato de Nueva España",
 		"replaces": "Horseman",
 		"movement": 4,
 		"strength": 24,
