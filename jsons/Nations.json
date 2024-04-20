@@ -1,38 +1,72 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "Virreinato de Nueva España",
+		"leaderName": "Juan Vicente de Güemes",
+		"adjective": ["Novohispano"],
+		"startBias": ["Lakes"],
+		"preferredVictoryType": "Cultural",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "¡Que Dios y Nuestro Católico Monarca le ayuden en su gran labor como nuevo mandatario del gran Virreinato de la Nueva España!",
+		"startIntroPart2": "La gran y magestuosa Ciudad de México le da la bienvenida.",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "¡Pagarás muy cara tu ofensa contra la Nueva España!",
+		"attacked": "Te has buscado tu propio destino, ahora perecerás.",
+		"defeated": "Has osado desafiar a la civilización más próspera del orbe. Ahora la oscuridad se cernirá sobre estas tierras.",
+		"introduction": "Encantado de conocerle, el virrey de la Nueva España le saluda.",
 		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralHello": "Buenas tardes, amigo mío.",
+		"neutralLetsHearIt": ["¿Quiere algo?","¿Hay algo que desee?","¿Puede la Nueva España ayudarle en algo?"],
+		"neutralNo": ["Me temo que vuestra oferta no cumple las necesidades de nuestro pueblo.","Siento tener que rechazar su propuesta.","Por el bien de mi Nación, debo rechazar esta oferta."],
+		"neutralYes": ["¡Trato hecho, amigo!","Usted sí que sabe cómo hacer negocios.","Un placer tratar con usted."],
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateHello": "Debería darte vergüenza hablar con nosotros después de lo que has hecho.",
+		"hateLetsHearIt": ["¡Habla ahora o vete!","¿Osas venir aquí después de todo?","Que sea rápido."],
+		"hateNo": ["Inténtalo otro día.","No vamos a aceptar eso.","¡Ni en sueños!"],
+		"hateYes": ["Está bien, ahora vete.","Bien, aceptamos tu trato.","Trato hecho."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "Me alegro de que podamos entendernos de nuevo.",
+		"tradeRequest": "Espero que puedas aceptar nuestra propuesta.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
-	}
+		"outerColor": [40,115,65],
+		"innerColor": [185,39,39],
+		"favoredReligion": "Christianity",
+		"uniqueName": "El Mercurio Volante",
+		"uniques": ["[Great Scientist] is earned [30]% faster]", "[Great Artist] is earned [30]% faster]", "[Great Engineer] is earned [30]% faster]", "[Great Merchant] is earned [30]% faster]", "[Great Prophet] is earned [30]% faster]", "[+2 Gold] [in all cities]", "[+2 Culture] [in all cities]", "[+2 Science] [in all cities]"]
+		"cities": ["Ciudad de México","Puebla","Guanajuato","Antequera de Oaxaca","Tlaxcala","Mérida","Veracruz","Guadalajara","Xalapa","Celaya"]
+	},
+	{
+		"name": "Virreinato del Perú",
+		"leaderName": "Francisco de Toledo",
+		"adjective": ["Peruano"],
+		"startBias": ["Coast",],
+		"preferredVictoryType":"Cultural",
+
+		"startIntroPart1": "¡Bienvenido al gran Virreinato del Perú, heredero de la  gloriosa Civilización Inca y de los Grandes y Católicos Reyes de Castilla!",
+		"startIntroPart2": "¿Serás capaz de llevar a nuuestro gran pueblo hacia la gloria eterna que merece?",
+
+		"declaringWar": "You are in my way, you must be destroyed.",
+		"attacked": "As a matter of fact I too grow weary of peace.",
+		"defeated": "You have somehow become my undoing! What kind of beast are you?",
+		"introduction": "Hello stranger! I am Alexandros, son of kings and grandson of the gods!",
+		
+		"neutralHello": "Buenas tardes, amigo mío.",
+		"neutralLetsHearIt": ["¿Quiere algo?","¿Hay algo que desee?","¿Puede el Reino del Perú ayudarle en algo?"],
+		"neutralNo": ["Me temo que vuestra oferta no cumple las necesidades de nuestro pueblo.","Siento tener que rechazar su propuesta.","Por el bien de mi Nación, debo rechazar esta oferta."],
+		"neutralYes": ["¡Trato hecho, amigo!","Usted sí que sabe cómo hacer negocios.","Un placer tratar con usted."],
+
+		"hateHello": "Debería darte vergüenza hablar con nosotros después de lo que has hecho.",
+		"hateLetsHearIt": ["¡Habla ahora o vete!","¿Osas venir aquí después de todo?","Que sea rápido."],
+		"hateNo": ["Inténtalo otro día.","No vamos a aceptar eso.","¡Ni en sueños!"],
+		"hateYes": ["Está bien, ahora vete.","Bien, aceptamos tu trato.","Trato hecho."],
+		
+		"afterPeace": "Espero que podamos olvidar nuestras diferencias pasadas.",
+		"tradeRequest": "Desearía que llegaramos a un acuerdo".",
+
+		"outerColor": [45, 90, 180],
+		"innerColor": [245, 200, 20],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Alferazgo Real de los 24 Electores Incas del Cusco",
+		"uniques": ["[+1 Production] from every [Strategic resource]", "[-50]% Gold cost of acquiring tiles [in all cities]", "[-50]% Unhappiness from [Population] [in all cities]", "[+3 Gold] [in all cities]", "[+3 Culture] [in all cities]", "[+50]% Golden Age length"],
+		"cities": ["Lima","Cuzco","Arequipa","Trujillo","El Callao","Huamanga","Piura","Cajamarca","Huánuco","Iquitos"]
+    },
 ]
