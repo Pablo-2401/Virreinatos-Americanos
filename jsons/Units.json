@@ -1,17 +1,16 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+		"name": "Dragón de Cuera",
+		"unitType": "Mounted",
+		"uniqueTo": "",
+		"replaces": "Horseman",
+		"movement": 4,
+		"strength": 24,
+		"cost": 200,
+		"requiredTech": "Horseback Riding",
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking","[-33]% Strength <vs cities> <when attacking>", "[+2] Sight", "Can build [Fort] improvements on tiles", "[+50]% Strength <vs [Scout] units>", "[+50]% Strength <vs [Civilian] units>", "[+50]% Strength <vs [Warrior] units>"]
+		"hurryCostModifier": 20,
+		"attackSound": "horse"
 	}
 ]
