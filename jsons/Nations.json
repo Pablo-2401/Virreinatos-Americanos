@@ -38,16 +38,16 @@
 		"name": "Virreinato del Perú",
 		"leaderName": "Francisco de Toledo",
 		"adjective": ["Peruano"],
-		"startBias": ["Coast",],
+		"startBias": ["Coast"],
 		"preferredVictoryType":"Cultural",
 
 		"startIntroPart1": "¡Bienvenido al gran Virreinato del Perú, heredero de la  gloriosa Civilización Inca y de los Grandes y Católicos Reyes de Castilla!",
 		"startIntroPart2": "¿Serás capaz de llevar a nuuestro gran pueblo hacia la gloria eterna que merece?",
 
-		"declaringWar": "You are in my way, you must be destroyed.",
-		"attacked": "As a matter of fact I too grow weary of peace.",
-		"defeated": "You have somehow become my undoing! What kind of beast are you?",
-		"introduction": "Hello stranger! I am Alexandros, son of kings and grandson of the gods!",
+		"declaringWar": "Te arrepentirás de faltar el respeto al Gran Reino del Perú.",
+		"attacked": "¿Osas atacar al Perú y a su pueblo?",
+		"defeated": "Nos has derrotado. Que Dios se apiade de ti y de los tuyos.",
+		"introduction": "Es un placer, el virrey de Perú le extiende la mano.",
 		
 		"neutralHello": "Buenas tardes, amigo mío.",
 		"neutralLetsHearIt": ["¿Quiere algo?","¿Hay algo que desee?","¿Puede el Reino del Perú ayudarle en algo?"],
@@ -60,7 +60,7 @@
 		"hateYes": ["Está bien, ahora vete.","Bien, aceptamos tu trato.","Trato hecho."],
 		
 		"afterPeace": "Espero que podamos olvidar nuestras diferencias pasadas.",
-		"tradeRequest": "Desearía que llegaramos a un acuerdo".",
+		"tradeRequest": "Desearía que llegaramos a un acuerdo.",
 
 		"outerColor": [45, 90, 180],
 		"innerColor": [245, 200, 20],
