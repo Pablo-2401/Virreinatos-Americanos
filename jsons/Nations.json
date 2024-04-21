@@ -32,7 +32,7 @@
 		"favoredReligion": "Christianity",
 		"uniqueName": "El Mercurio Volante",
 		"uniques": ["[Great Scientist] is earned [30]% faster]", "[Great Artist] is earned [30]% faster]", "[Great Engineer] is earned [30]% faster]", "[Great Merchant] is earned [30]% faster]", "[Great Prophet] is earned [30]% faster]", "[+2 Gold] [in all cities]", "[+2 Culture] [in all cities]", "[+2 Science] [in all cities]"]
-		"cities": ["Ciudad de México","Puebla","Guanajuato","Antequera de Oaxaca","Tlaxcala","Mérida","Veracruz","Guadalajara","Xalapa","Celaya"]
+		"cities": ["Ciudad de México","Puebla","Tlaxcala","Antequera de Oaxaca","Guanajuato","Mérida","Veracruz","Guadalajara","Xalapa","Celaya"]
 	},
 	{
 		"name": "Virreinato del Perú",
@@ -67,6 +67,6 @@
 		"favoredReligion": "Christianity",
 		"uniqueName": "Alferazgo Real de los 24 Electores Incas del Cusco",
 		"uniques": ["[+1 Production] from every [Strategic resource]", "[-50]% Gold cost of acquiring tiles [in all cities]", "[-50]% Unhappiness from [Population] [in all cities]", "[+3 Gold] [in all cities]", "[+3 Culture] [in all cities]", "[+50]% Golden Age length"],
-		"cities": ["Lima","Cuzco","Arequipa","Trujillo","El Callao","Huamanga","Piura","Cajamarca","Huánuco","Iquitos"]
+		"cities": ["Lima","Cuzco","Arequipa","Trujillo","El Callao","Huamanga","Piura", "Cajamarca","Huánuco","Iquitos"]
     },
 ]
