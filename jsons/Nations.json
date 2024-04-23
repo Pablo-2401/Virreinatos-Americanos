@@ -32,7 +32,7 @@
 		"favoredReligion": "Christianity",
 		"uniqueName": "El Mercurio Volante",
 		"uniques": ["[Great Scientist] is earned [30]% faster]", "[Great Artist] is earned [30]% faster]", "[Great Engineer] is earned [30]% faster]", "[Great Merchant] is earned [30]% faster]", "[Great Prophet] is earned [30]% faster]", "[+2 Gold] [in all cities]", "[+2 Culture] [in all cities]", "[+2 Science] [in all cities]"]
-		"cities": ["Ciudad de México","Puebla","Tlaxcala","Antequera de Oaxaca","Guanajuato","Mérida","Veracruz","Guadalajara","Xalapa","Celaya"]
+		"cities": ["Ciudad de México","Puebla","Tlaxcala","Antequera de Oaxaca","Guanajuato","Mérida de Yucatán","Veracruz","Guadalajara","Xalapa","Celaya"]
 	},
 	{
 		"name": "Virreinato del Perú",
